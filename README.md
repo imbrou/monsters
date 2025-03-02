@@ -23,7 +23,7 @@ python monster_start.py
 
 ## Features
 
-- Database creation with 3,000 monsters stored in a JSON file
+- Database creation with 10,000 monsters stored in a JSON file
 - Each monster has random attributes, abilities, and inventory items
 - Monster names are combinations of Harry Potter characters and French politicians
 - Monsters sorting
